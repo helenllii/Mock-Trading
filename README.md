@@ -8,8 +8,8 @@
 # Run instructions:
 1. Download cmu_graphics from https://academy.cs.cmu.edu/desktop and put it beside the main.py file
 2. Download all the CSV files that has historical data
-3. Change the file paths of images in () Line ___
-4. Change the file paths of CSV files in () Line ___
+3. Change the file paths of images in main.py Line 124, 374 (logo), line 580 (pause); DrawAnnotation.py Line 20 (pictures/pen.png), Line 22(pictures/diagonalLine.png', 'pictures/dashedRect.png','pictures/arrow.png', 'pictures/trashcan.png')
+4. Change the file paths of CSV files in main.py Line 263(historical data/Apple Stock Price History.csv), 268(historical data/Oil-Dri Of America Stock Price History.csv); 249, 273 (historical data/XAU_USD Historical Data (1).csv)
 5. Run main.py
 
 # Shortcuts:
